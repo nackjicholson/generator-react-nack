@@ -38,7 +38,7 @@ Run a file watcher which performs linting, code style checks, and tests anytime 
 
 `$ npm run build`
 
-Transpiles the server you've written in the `src/` directory to ES5 code and places it in the `dist/` directory.
+Packages your library to an es5 commonjs module using webpack and places it in the `dist/` dir.
 
 **Start the server**
 
