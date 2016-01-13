@@ -1,6 +1,6 @@
 # generator-react-nack
 
-> Scaffold a hapijs micro service
+> Scaffold a react component
 
 ![](screenshot.png)
 
