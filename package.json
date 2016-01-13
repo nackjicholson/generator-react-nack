@@ -1,7 +1,7 @@
 {
   "name": "generator-react-nack",
-  "version": "1.0.1",
-  "description": "Scaffold a hapijs micro service",
+  "version": "1.0.0",
+  "description": "Scaffold a react component",
   "license": "MIT",
   "repository": "nackjicholson/generator-react-nack",
   "author": {
@@ -19,8 +19,6 @@
   ],
   "keywords": [
     "yeoman-generator",
-    "plugin",
-    "boilerplate",
     "template",
     "scaffold",
     "ECMASCRIPT 6",
@@ -28,10 +26,9 @@
     "ES2015",
     "babel",
     "transpile",
-    "hapijs",
-    "hapi",
-    "micro service",
-    "microservices"
+    "react",
+    "stateless",
+    "component"
   ],
   "dependencies": {
     "chalk": "^1.1.1",
