@@ -28,7 +28,7 @@ module.exports = yeoman.Base.extend({
         type: 'input',
         name: 'description',
         message: 'Describe your component',
-        default: 'My ' + superb() + ' service.'
+        default: 'My ' + superb() + ' component.'
       },
       {
         name: 'githubUsername',
