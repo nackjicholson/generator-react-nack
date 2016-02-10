@@ -1,6 +1,6 @@
 {
   "name": "generator-react-nack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scaffold a react component",
   "license": "MIT",
   "repository": "nackjicholson/generator-react-nack",
